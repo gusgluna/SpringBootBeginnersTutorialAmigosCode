@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    password:
+    url: jdbc:mysql://localhost:PORT/dbname
+    username:
